@@ -1,0 +1,24 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Manufacturer,PartNumber,Distributor#1,OrderingCode#1,Distributor#2,OrderingCode#2,InsertManufacturer,InsertProductCode,InsertDistributor#1,InsertOrderingCode#1,MateManufacturer,MateProductCode,MateDistributor#1,MateOrderingCode#1,ExtraTool#1Manufacturer,ExtraTool#1ProductCode,ExtraTool#1Distributor#1,ExtraTool#1OrderingCode#1,Datasheet,Layer
+1,Unpolarized capacitor,C,C1003 C1004,1u / X7R / 16V,C_0603,2,KEMET,C0603C105K4RACTU,www.mouser.com,80-C0603C105K4R,,,,,,,,,,,,,,,~,F.Cu
+2,Unpolarized capacitor,C,C1001 C1002,470p / X7R / 16V,C_0402,2,KEMET,C0402C471K4RACTU,www.mouser.com,80-C0402C471K4R,,,,,,,,,,,,,,,~,B.Cu
+3,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05_Male,J1001 J1002,Conn_01x05_Male,Pin_Header_Straight_1x05_Pitch2.54mm,2,Amphenol FCI,77311-118-05LF,www.mouser.com,649-77311-118-05LF,,,,,,,,,,,,,,,~,B.Cu
+4,Resistor,R,R1005,10k / 1%,R_0603,1,Vishay / Dale,CRCW060310K0FKEAC,www.mouser.com,71-CRCW060310K0FKEAC,,,,,,,,,,,,,,,~,F.Cu
+5,Resistor,R,R1001 R1002,1k / 1%,R_0402,2,Vishay / Dale,CRCW04021K00FKEDC,www.mouser.com,71-CRCW04021K00FKEDC,,,,,,,,,,,,,,,~,B.Cu
+6,Resistor,R,R1003 R1004,3.3k / 1%,R_0603,2,Vishay / Dale,CRCW06033K30FKEAC,www.mouser.com,71-CRCW06033K30FKEAC,,,,,,,,,,,,,,,~,F.Cu
+7,Resistor,R,R1006 R1007,DNP,R_0603,2,,,,,,,,,,,,,,,,,,,~,F.Cu
+8," Nanopower, Dual-Channel, Programmable Sensor Monitor",ADS7142,U1001,ADS7142,Texas_RUG0010A_X2QFN-10_1.5x2mm_Pitch0.5mm,1,Texas Instruments,ADS7142IRUGT,www.mouser.com,595-ADS7142IRUGT,,,,,,,,,,,,,,,https://www.ti.com/lit/ds/symlink/ads7142.pdf,F.Cu
+
+
+
+
+
+Component Groups:,8
+Component Count:,14
+Fitted Components:,14
+Number of PCBs:,1
+Total components:,14
+Schematic Version:,
+Schematic Date:,
+BoM Date:,17/04/2021 10:51:19
+Schematic Source:,D:\Projects\DM.ADS7142.BOB\cad\eda\A003.0000017200_DM.ADS7142.BOB\A003.0000017200_DM.ADS7142.BOB.sch
+KiCad Version:,Eeschema (5.1.6-14-g3ac0951e1-dirty)
